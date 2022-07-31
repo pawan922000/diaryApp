@@ -266,7 +266,7 @@ class CreateNotesFragment : Fragment() {
     }
     private fun createNotes(it: View?){
         val title=binding.editTitle.text.toHtml(1).replace("<p dir=\"ltr\">", "").replace(
-            "<p dir=\"rtl\">", "").replace("<p>","").replace("</p>","")
+            "<p dir=\"rtl\">", "").replace("<p>","").replace("</p>","").trim()
         val notes=binding.editNotes.text.toHtml(1).replace("<p dir=\"ltr\">", "").replace(
             "<p dir=\"rtl\">", "").replace("<p>","").replace("</p>","").trim()
 
