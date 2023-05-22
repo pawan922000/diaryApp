@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.diaryapp-mergeDebugResources-51:/values-v23/values-v23.xml",
+            "outputFile": "com.example.diaryapp-mergeDebugResources-52:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c6d61068d7ab4ea54b73549651127000\\transformed\\appcompat-1.4.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\caches\\transforms-3\\f73c3f63589e81a9a4bb3217bd803f58\\transformed\\appcompat-1.4.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\28f408e8320e23284f6dde2d5d30543d\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\caches\\transforms-3\\8d268c2c4ad20010fb03f60db8c616f4\\transformed\\material-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\aa489f3eec03566e8b6927bd982a6493\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\caches\\transforms-3\\47049456092ded86773ba2cce0004d50\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

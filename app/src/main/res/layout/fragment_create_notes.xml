@@ -63,7 +63,7 @@
                 android:layout_marginLeft="6dp"
                 android:backgroundTint="#71DEEC"
                 android:layout_weight="1"
-                android:src="@drawable/image" />
+                android:src="@drawable/ic_remove_svgrepo_com"/>
 
             <ImageButton
                 android:id="@+id/colorButton"
@@ -90,7 +90,7 @@
                 android:layout_marginLeft="6dp"
                 android:backgroundTint="#71DEEC"
                 android:layout_weight="1"
-                android:src="@drawable/colour" />
+                android:src="@drawable/ic_highlighter" />
 
         </LinearLayout>
 
@@ -98,6 +98,7 @@
             android:id="@+id/dateButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
             android:background="@drawable/edit_shape_diary"
             android:drawableStart="@drawable/calender"
             android:padding="10sp"/>
@@ -118,8 +119,8 @@
         <EditText
             android:id="@+id/editNotes"
             android:layout_width="match_parent"
-            android:layout_height="322dp"
-            android:layout_marginTop="8dp"
+            android:layout_height="361dp"
+            android:layout_marginTop="2sp"
             android:background="@drawable/edit_shape_diary"
             android:gravity="start"
             android:hint="So How was your day today....."

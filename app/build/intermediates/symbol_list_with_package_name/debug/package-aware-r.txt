@@ -2539,6 +2539,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button
 drawable calender
 drawable clickable_text
 drawable colour
@@ -2575,6 +2576,7 @@ drawable googleg_standard_color_18
 drawable ic_baseline_add_24
 drawable ic_baseline_done_24
 drawable ic_clock_black_24dp
+drawable ic_highlighter
 drawable ic_image
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2586,6 +2588,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_remove_svgrepo_com
 drawable image
 drawable italics
 drawable login
@@ -2620,6 +2623,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_overlay
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable new_user
 drawable no_button
 drawable notification_action_background
 drawable notification_bg
@@ -2633,6 +2637,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable password_toggle
 drawable pen_color
 drawable search_notes
 drawable size
@@ -2641,6 +2646,8 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable underline
+drawable visibility
+drawable visibility_off
 drawable welcomelogo
 drawable yes_button
 id ALT
@@ -2739,6 +2746,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id background
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2791,6 +2799,8 @@ id collapseActionView
 id color
 id colorButton
 id compress
+id confirmPassword
+id confirmPasswordtext
 id confirm_button
 id constraint
 id container
@@ -2853,6 +2863,8 @@ id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
+id email
+id emailText
 id end
 id endToStart
 id enterAlways
@@ -2874,9 +2886,11 @@ id fixed
 id flip
 id floating
 id forever
+id forgotemail
 id fragmentContainerView
 id fragment_container_view_tag
 id frost
+id fullName
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
@@ -2927,6 +2941,9 @@ id linearLayout
 id listMode
 id list_item
 id locale
+id login
+id loginback
+id loginbtn
 id ltr
 id masked
 id match_constraint
@@ -2999,6 +3016,8 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id newUser
+id newaccount
 id noScroll
 id noState
 id none
@@ -3009,6 +3028,7 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id off
+id olduser
 id on
 id onInterceptTouchReturnSwipe
 id outline
@@ -3020,7 +3040,11 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password
 id password_toggle
+id passwordbtn
+id passwordbutton
+id passwordtext
 id path
 id pathRelative
 id peekHeight
@@ -3040,6 +3064,9 @@ id ratio
 id rcvAllNotes
 id rectangles
 id redpen
+id rememberPassword
+id resetbtn
+id resetpassword
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3078,6 +3105,9 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signup
+id signupback
+id signuptext
 id sin
 id size
 id skipCollapsed
@@ -3287,7 +3317,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_forgot_password
+layout activity_login
 layout activity_main
+layout activity_signup
 layout activity_splash_screen
 layout background_colour
 layout browser_actions_context_menu_page
@@ -3456,6 +3489,7 @@ string common_signin_button_text
 string common_signin_button_text_long
 string copy_toast_msg
 string date
+string default_web_client_id
 string delete
 string developers_name
 string error_icon_content_description
@@ -3465,6 +3499,11 @@ string fab_transformation_sheet_behavior
 string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string heading
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
@@ -3552,6 +3591,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string project_id
 string prompt_email
 string prompt_password
 string ps_diary

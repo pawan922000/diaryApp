@@ -38,6 +38,7 @@
             android:backgroundTint="@color/seagreen" />
 
 
+
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/yellow"
             android:layout_width="wrap_content"
@@ -53,6 +54,10 @@
             android:layout_marginLeft="10sp"
             android:layout_marginTop="7sp"
             android:backgroundTint="@color/purple_background" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="82sp" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

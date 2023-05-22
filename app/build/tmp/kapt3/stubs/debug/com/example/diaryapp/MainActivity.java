@@ -10,21 +10,21 @@ public final class MainActivity extends androidx.appcompat.app.AppCompatActivity
         super();
     }
     
-    @org.jetbrains.annotations.NotNull
+    @org.jetbrains.annotations.NotNull()
     public final androidx.navigation.NavController getNavController() {
         return null;
     }
     
-    public final void setNavController(@org.jetbrains.annotations.NotNull
+    public final void setNavController(@org.jetbrains.annotations.NotNull()
     androidx.navigation.NavController p0) {
     }
     
-    @java.lang.Override
-    protected void onCreate(@org.jetbrains.annotations.Nullable
+    @java.lang.Override()
+    protected void onCreate(@org.jetbrains.annotations.Nullable()
     android.os.Bundle savedInstanceState) {
     }
     
-    @java.lang.Override
+    @java.lang.Override()
     public boolean onNavigateUp() {
         return false;
     }

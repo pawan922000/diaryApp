@@ -1,38 +1,54 @@
 [
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/dialogue.xml",
-        "source": "com.example.diaryapp-main-55:/layout/dialogue.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/background_colour.xml",
-        "source": "com.example.diaryapp-main-55:/layout/background_colour.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\fragment_create_notes.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\fragment_create_notes.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/activity_splash_screen.xml",
-        "source": "com.example.diaryapp-main-55:/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\pen_color.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\pen_color.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/fragment_editfragment.xml",
-        "source": "com.example.diaryapp-main-55:/layout/fragment_editfragment.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\background_colour.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\background_colour.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/pen_color.xml",
-        "source": "com.example.diaryapp-main-55:/layout/pen_color.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\activity_signup.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/activity_main.xml",
-        "source": "com.example.diaryapp-main-55:/layout/activity_main.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\activity_forgot_password.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/item_diary.xml",
-        "source": "com.example.diaryapp-main-55:/layout/item_diary.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\item_diary.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\item_diary.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/fragment_create_notes.xml",
-        "source": "com.example.diaryapp-main-55:/layout/fragment_create_notes.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\fragment_editfragment.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\fragment_editfragment.xml"
     },
     {
-        "merged": "com.example.diaryapp-mergeDebugResources-52:/layout/fragment_homefragment.xml",
-        "source": "com.example.diaryapp-main-55:/layout/fragment_homefragment.xml"
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.diaryapp-mergeDebugResources-53:/layout/background_colour.xml",
+        "source": "com.example.diaryapp-main-56:/layout/background_colour.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\fragment_homefragment.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\fragment_homefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-mergeDebugResources-53:\\layout\\dialogue.xml",
+        "source": "C:\\Users\\SAHELI BANERJEE\\.gradle\\daemon\\7.3.3\\com.example.diaryapp-main-56:\\layout\\dialogue.xml"
     }
 ]

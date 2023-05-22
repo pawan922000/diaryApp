@@ -1,56 +1,57 @@
-com.example.diaryapp-appcompat-resources-1.4.0-0 C:\Users\user\.gradle\caches\transforms-3\020f12631344d8abe98d3f0cb25bf421\transformed\appcompat-resources-1.4.0\res
-com.example.diaryapp-lifecycle-process-2.4.0-1 C:\Users\user\.gradle\caches\transforms-3\02dcf1cdd8c62d0ef736f71a575781b2\transformed\lifecycle-process-2.4.0\res
-com.example.diaryapp-navigation-ui-2.5.0-2 C:\Users\user\.gradle\caches\transforms-3\06c9c98fec44ec81ab39f970be1865cb\transformed\navigation-ui-2.5.0\res
-com.example.diaryapp-savedstate-ktx-1.2.0-3 C:\Users\user\.gradle\caches\transforms-3\111005d60927159cb42046797e0578f2\transformed\savedstate-ktx-1.2.0\res
-com.example.diaryapp-constraintlayout-2.1.4-4 C:\Users\user\.gradle\caches\transforms-3\15b5a05b8bd1699543cda203ad05c5ab\transformed\constraintlayout-2.1.4\res
-com.example.diaryapp-navigation-runtime-2.5.0-5 C:\Users\user\.gradle\caches\transforms-3\173c3ff715f08b2ed8cfa3d32b08f998\transformed\navigation-runtime-2.5.0\res
-com.example.diaryapp-savedstate-1.2.0-6 C:\Users\user\.gradle\caches\transforms-3\240bc0e15e1a5fafa30339dd2091c6cf\transformed\savedstate-1.2.0\res
-com.example.diaryapp-navigation-runtime-ktx-2.5.0-7 C:\Users\user\.gradle\caches\transforms-3\2499bf4c732d5ae30ba1c262d1ad5fcb\transformed\navigation-runtime-ktx-2.5.0\res
-com.example.diaryapp-material-1.6.1-8 C:\Users\user\.gradle\caches\transforms-3\28f408e8320e23284f6dde2d5d30543d\transformed\material-1.6.1\res
-com.example.diaryapp-room-ktx-2.4.2-9 C:\Users\user\.gradle\caches\transforms-3\3076ab23db9c4d9cccdadb2c6c36d983\transformed\room-ktx-2.4.2\res
-com.example.diaryapp-emoji2-1.0.0-10 C:\Users\user\.gradle\caches\transforms-3\30a3fb837fa506709c12b740ca4f4713\transformed\emoji2-1.0.0\res
-com.example.diaryapp-lifecycle-runtime-2.5.0-11 C:\Users\user\.gradle\caches\transforms-3\33e555538969787c30335de9dd3f322c\transformed\lifecycle-runtime-2.5.0\res
-com.example.diaryapp-fragment-1.5.0-12 C:\Users\user\.gradle\caches\transforms-3\357bd7ec10af8138472a978906f2e97b\transformed\fragment-1.5.0\res
-com.example.diaryapp-emoji2-views-helper-1.0.0-13 C:\Users\user\.gradle\caches\transforms-3\3705a791ec32b43e7c9dad02d56e4d66\transformed\emoji2-views-helper-1.0.0\res
-com.example.diaryapp-lifecycle-livedata-core-ktx-2.5.0-14 C:\Users\user\.gradle\caches\transforms-3\4034437344154097a373d91e731b7590\transformed\lifecycle-livedata-core-ktx-2.5.0\res
-com.example.diaryapp-sqlite-2.2.0-15 C:\Users\user\.gradle\caches\transforms-3\42911d069b8865ce7ceb998098761df1\transformed\sqlite-2.2.0\res
-com.example.diaryapp-navigation-fragment-2.5.0-16 C:\Users\user\.gradle\caches\transforms-3\50208bfde81b92866fb2bb9b809055b3\transformed\navigation-fragment-2.5.0\res
-com.example.diaryapp-lifecycle-livedata-ktx-2.4.1-17 C:\Users\user\.gradle\caches\transforms-3\52527c24cc0a5881517770b9a77cca12\transformed\lifecycle-livedata-ktx-2.4.1\res
-com.example.diaryapp-lifecycle-viewmodel-ktx-2.5.0-18 C:\Users\user\.gradle\caches\transforms-3\5272b705d4c4bcdc8b787d1ccec8e999\transformed\lifecycle-viewmodel-ktx-2.5.0\res
-com.example.diaryapp-browser-1.4.0-19 C:\Users\user\.gradle\caches\transforms-3\5e40dd3bfdce565b0b7aaf341d54b720\transformed\browser-1.4.0\res
-com.example.diaryapp-annotation-experimental-1.1.0-20 C:\Users\user\.gradle\caches\transforms-3\6c85da6c86649cf8d386030b3fbbd356\transformed\annotation-experimental-1.1.0\res
-com.example.diaryapp-viewpager2-1.0.0-21 C:\Users\user\.gradle\caches\transforms-3\7400be7b6921ff3eb2a6744dd80a61b3\transformed\viewpager2-1.0.0\res
-com.example.diaryapp-activity-ktx-1.5.0-22 C:\Users\user\.gradle\caches\transforms-3\743cf64abec2ff184c6965873024cdb1\transformed\activity-ktx-1.5.0\res
-com.example.diaryapp-slidingpanelayout-1.2.0-23 C:\Users\user\.gradle\caches\transforms-3\76792ad62c6daf2331fb6ceceef94948\transformed\slidingpanelayout-1.2.0\res
-com.example.diaryapp-lifecycle-livedata-core-2.5.0-24 C:\Users\user\.gradle\caches\transforms-3\77d0d21cf0ae4980bdb4e7c247cf42aa\transformed\lifecycle-livedata-core-2.5.0\res
-com.example.diaryapp-room-runtime-2.4.2-25 C:\Users\user\.gradle\caches\transforms-3\78aca83b0508e10a1ebaa9fb60b78e61\transformed\room-runtime-2.4.2\res
-com.example.diaryapp-core-1.8.0-26 C:\Users\user\.gradle\caches\transforms-3\88b7daedf651716b5d1da185a6e6cd89\transformed\core-1.8.0\res
-com.example.diaryapp-fragment-ktx-1.5.0-27 C:\Users\user\.gradle\caches\transforms-3\8f0a93348cb2d5859b766be15edfd815\transformed\fragment-ktx-1.5.0\res
-com.example.diaryapp-navigation-ui-ktx-2.5.0-28 C:\Users\user\.gradle\caches\transforms-3\922cf72ddc99947845f8fc5492f1d49c\transformed\navigation-ui-ktx-2.5.0\res
-com.example.diaryapp-navigation-fragment-ktx-2.5.0-29 C:\Users\user\.gradle\caches\transforms-3\993443f044e91a6b714c1f5df2df4507\transformed\navigation-fragment-ktx-2.5.0\res
-com.example.diaryapp-lifecycle-viewmodel-2.5.0-30 C:\Users\user\.gradle\caches\transforms-3\999bb05200c111c228c4577075b0e0b0\transformed\lifecycle-viewmodel-2.5.0\res
-com.example.diaryapp-coordinatorlayout-1.1.0-31 C:\Users\user\.gradle\caches\transforms-3\9f9fd31345088b03897ae5ea7b756d80\transformed\coordinatorlayout-1.1.0\res
-com.example.diaryapp-cardview-1.0.0-32 C:\Users\user\.gradle\caches\transforms-3\aa489f3eec03566e8b6927bd982a6493\transformed\cardview-1.0.0\res
-com.example.diaryapp-navigation-common-2.5.0-33 C:\Users\user\.gradle\caches\transforms-3\b2b2233b641be43f12b44ca7bafaf627\transformed\navigation-common-2.5.0\res
-com.example.diaryapp-play-services-base-17.1.0-34 C:\Users\user\.gradle\caches\transforms-3\c100f14c581d03f6f9497a8dcc891c6d\transformed\play-services-base-17.1.0\res
-com.example.diaryapp-lifecycle-livedata-2.4.1-35 C:\Users\user\.gradle\caches\transforms-3\c4f1df0a5dc983dfb8417ec07cee713e\transformed\lifecycle-livedata-2.4.1\res
-com.example.diaryapp-drawerlayout-1.1.1-36 C:\Users\user\.gradle\caches\transforms-3\c593e3585623f619600d92db1242a273\transformed\drawerlayout-1.1.1\res
-com.example.diaryapp-navigation-common-ktx-2.5.0-37 C:\Users\user\.gradle\caches\transforms-3\c5b82969d2b78bf28c61d5154fc1b842\transformed\navigation-common-ktx-2.5.0\res
-com.example.diaryapp-appcompat-1.4.0-38 C:\Users\user\.gradle\caches\transforms-3\c6d61068d7ab4ea54b73549651127000\transformed\appcompat-1.4.0\res
-com.example.diaryapp-play-services-basement-18.0.0-39 C:\Users\user\.gradle\caches\transforms-3\c7478ddecf702220e5f0eef0aef1a2d0\transformed\play-services-basement-18.0.0\res
-com.example.diaryapp-lifecycle-viewmodel-savedstate-2.5.0-40 C:\Users\user\.gradle\caches\transforms-3\cc49cf14096395c99fb200c2349294f7\transformed\lifecycle-viewmodel-savedstate-2.5.0\res
-com.example.diaryapp-window-1.0.0-41 C:\Users\user\.gradle\caches\transforms-3\d21f8720ab731c7cb0cd3b974ea95bfa\transformed\window-1.0.0\res
-com.example.diaryapp-startup-runtime-1.0.0-42 C:\Users\user\.gradle\caches\transforms-3\d41e2b90e18fe584133d9d2e1a69850e\transformed\startup-runtime-1.0.0\res
-com.example.diaryapp-sqlite-framework-2.2.0-43 C:\Users\user\.gradle\caches\transforms-3\d7a73b36a23a9a5eadff03196691baf0\transformed\sqlite-framework-2.2.0\res
-com.example.diaryapp-activity-1.5.0-44 C:\Users\user\.gradle\caches\transforms-3\e9f7987896c340f4806e4687c9de03ee\transformed\activity-1.5.0\res
-com.example.diaryapp-lifecycle-runtime-ktx-2.5.0-45 C:\Users\user\.gradle\caches\transforms-3\f59438570d101143cee4059e7dd63fc7\transformed\lifecycle-runtime-ktx-2.5.0\res
-com.example.diaryapp-transition-1.4.1-46 C:\Users\user\.gradle\caches\transforms-3\f5c78d9cef13478a30ffe0c26c4d2d1f\transformed\transition-1.4.1\res
-com.example.diaryapp-recyclerview-1.1.0-47 C:\Users\user\.gradle\caches\transforms-3\fdc212cf36a6d1f2f808186ec91574fe\transformed\recyclerview-1.1.0\res
-com.example.diaryapp-pngs-48 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\generated\res\pngs\debug
-com.example.diaryapp-resValues-49 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\generated\res\resValues\debug
-com.example.diaryapp-rs-50 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\generated\res\rs\debug
-com.example.diaryapp-packageDebugResources-51 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.diaryapp-packageDebugResources-52 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.diaryapp-merged_res-53 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\build\intermediates\merged_res\debug
-com.example.diaryapp-debug-54 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\src\debug\res
-com.example.diaryapp-main-55 C:\Users\user\AndroidStudioProjects\ps_diary-main\app\src\main\res
+com.example.diaryapp-lifecycle-process-2.4.0-0 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\00a6865c1bacf4958f231c8886567726\transformed\lifecycle-process-2.4.0\res
+com.example.diaryapp-navigation-fragment-ktx-2.5.0-1 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\0afd2db287181608b6ea8937b6ed94c3\transformed\navigation-fragment-ktx-2.5.0\res
+com.example.diaryapp-lifecycle-viewmodel-ktx-2.5.0-2 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\0df042b7fc03c653ac32bd0f0a30d3ef\transformed\lifecycle-viewmodel-ktx-2.5.0\res
+com.example.diaryapp-activity-1.5.0-3 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\105098c542f53ebd7dda84844706e207\transformed\activity-1.5.0\res
+com.example.diaryapp-lifecycle-runtime-2.5.0-4 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\16aea28d02a18348291e6353d271f8d0\transformed\lifecycle-runtime-2.5.0\res
+com.example.diaryapp-navigation-common-ktx-2.5.0-5 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\178ab16cce894abe1bc683d58af074d9\transformed\navigation-common-ktx-2.5.0\res
+com.example.diaryapp-emoji2-1.0.0-6 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\2a35fa33e5b8c8786d19e132c0926f08\transformed\emoji2-1.0.0\res
+com.example.diaryapp-annotation-experimental-1.1.0-7 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\2ef776321b7821cf31b10cbcaf0c1b1b\transformed\annotation-experimental-1.1.0\res
+com.example.diaryapp-lifecycle-livedata-core-ktx-2.5.0-8 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\367f7f84f31d3d28fc1b936684a63d4e\transformed\lifecycle-livedata-core-ktx-2.5.0\res
+com.example.diaryapp-window-1.0.0-9 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\3d469da7b7b5fe6c1329b9a6af259291\transformed\window-1.0.0\res
+com.example.diaryapp-lifecycle-livedata-ktx-2.4.1-10 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\406cc531790c92fac6150f46a8871666\transformed\lifecycle-livedata-ktx-2.4.1\res
+com.example.diaryapp-constraintlayout-2.1.4-11 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\43ad049e5b6f9251f3077e81accf0cf3\transformed\constraintlayout-2.1.4\res
+com.example.diaryapp-cardview-1.0.0-12 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\47049456092ded86773ba2cce0004d50\transformed\cardview-1.0.0\res
+com.example.diaryapp-navigation-runtime-ktx-2.5.0-13 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\4a86bb3b19b2f812105f23b6833b4fee\transformed\navigation-runtime-ktx-2.5.0\res
+com.example.diaryapp-room-runtime-2.4.2-14 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\50a7dc9a121d751c7359bc882a25de0e\transformed\room-runtime-2.4.2\res
+com.example.diaryapp-play-services-base-17.1.0-15 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\555828cfe127a55d7267dba0fa2e0479\transformed\play-services-base-17.1.0\res
+com.example.diaryapp-savedstate-1.2.0-16 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\579210eb7b8809019a585d98b475d795\transformed\savedstate-1.2.0\res
+com.example.diaryapp-savedstate-ktx-1.2.0-17 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\5f013fa9bce122860a16119862d48a1f\transformed\savedstate-ktx-1.2.0\res
+com.example.diaryapp-browser-1.4.0-18 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\63f620ba65a3035e4c26e45115974cba\transformed\browser-1.4.0\res
+com.example.diaryapp-lifecycle-viewmodel-savedstate-2.5.0-19 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\6ded8747d9271e629d449dd701d91991\transformed\lifecycle-viewmodel-savedstate-2.5.0\res
+com.example.diaryapp-startup-runtime-1.0.0-20 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\70229f6d3f000b28a801d9c17f20ad38\transformed\startup-runtime-1.0.0\res
+com.example.diaryapp-sqlite-framework-2.2.0-21 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\71d4577b2d320b981bf13c1ca8addf02\transformed\sqlite-framework-2.2.0\res
+com.example.diaryapp-lifecycle-livedata-2.4.1-22 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\739e5fb49b30aaf95dd3f770c4a29a73\transformed\lifecycle-livedata-2.4.1\res
+com.example.diaryapp-appcompat-resources-1.4.0-23 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\80227687ba75b0063c0a8724a338633a\transformed\appcompat-resources-1.4.0\res
+com.example.diaryapp-fragment-1.5.0-24 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\86da747ddb135b01945a8b03e037cf51\transformed\fragment-1.5.0\res
+com.example.diaryapp-slidingpanelayout-1.2.0-25 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\87ac29c36966a6838ebc4338bb1fc235\transformed\slidingpanelayout-1.2.0\res
+com.example.diaryapp-play-services-basement-18.0.0-26 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\8c7d65226249f1ec299c808d26286a5b\transformed\play-services-basement-18.0.0\res
+com.example.diaryapp-material-1.6.1-27 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\8d268c2c4ad20010fb03f60db8c616f4\transformed\material-1.6.1\res
+com.example.diaryapp-coordinatorlayout-1.1.0-28 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\909b87d2a2a6b568c83a902a757844b4\transformed\coordinatorlayout-1.1.0\res
+com.example.diaryapp-room-ktx-2.4.2-29 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\9426203c2014737d1f83edc633a4c420\transformed\room-ktx-2.4.2\res
+com.example.diaryapp-core-1.8.0-30 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\97695103f588ab0c5d9dd3b6a21d59c9\transformed\core-1.8.0\res
+com.example.diaryapp-lifecycle-viewmodel-2.5.0-31 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\9825eb8dc43688f70c7b42c3312757f8\transformed\lifecycle-viewmodel-2.5.0\res
+com.example.diaryapp-lifecycle-livedata-core-2.5.0-32 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\9a3f203cab3405de475b0011ec7fae90\transformed\lifecycle-livedata-core-2.5.0\res
+com.example.diaryapp-recyclerview-1.1.0-33 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\9e6c68dee0c8ba48af4ddafd9e108c87\transformed\recyclerview-1.1.0\res
+com.example.diaryapp-sqlite-2.2.0-34 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\a165576ed9eb06fd0d3dc2fc0f7f832e\transformed\sqlite-2.2.0\res
+com.example.diaryapp-navigation-ui-ktx-2.5.0-35 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\a22ff94e31249138ee393e832deb8374\transformed\navigation-ui-ktx-2.5.0\res
+com.example.diaryapp-navigation-runtime-2.5.0-36 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\aa0db50c5cb6ae2b9a384f35e13d92e6\transformed\navigation-runtime-2.5.0\res
+com.example.diaryapp-lifecycle-runtime-ktx-2.5.0-37 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\ac011c0a8426522a3588c33b2ab4b3c8\transformed\lifecycle-runtime-ktx-2.5.0\res
+com.example.diaryapp-navigation-fragment-2.5.0-38 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\b3bafec973e67344250ee7900a89bdfa\transformed\navigation-fragment-2.5.0\res
+com.example.diaryapp-navigation-common-2.5.0-39 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\b715fffa568141de1f601cc2f49c67bd\transformed\navigation-common-2.5.0\res
+com.example.diaryapp-drawerlayout-1.1.1-40 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\c01f7e9f78e5df1c1d91b1736fa62f5d\transformed\drawerlayout-1.1.1\res
+com.example.diaryapp-activity-ktx-1.5.0-41 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\c2fa230e8b349e081a464850e46f58d5\transformed\activity-ktx-1.5.0\res
+com.example.diaryapp-emoji2-views-helper-1.0.0-42 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\cc13fdd3af6ff8279e034918d11c13fd\transformed\emoji2-views-helper-1.0.0\res
+com.example.diaryapp-navigation-ui-2.5.0-43 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\f4b96257eabc953f639e52b84557d880\transformed\navigation-ui-2.5.0\res
+com.example.diaryapp-fragment-ktx-1.5.0-44 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\f6c4f0683f0fdc6e92c55e67d83cec60\transformed\fragment-ktx-1.5.0\res
+com.example.diaryapp-appcompat-1.4.0-45 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\f73c3f63589e81a9a4bb3217bd803f58\transformed\appcompat-1.4.0\res
+com.example.diaryapp-viewpager2-1.0.0-46 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\faf590b6b415ab2656dc664eddd99848\transformed\viewpager2-1.0.0\res
+com.example.diaryapp-transition-1.4.1-47 C:\Users\SAHELI BANERJEE\.gradle\caches\transforms-3\fe6db8d238f220aec60446620d14628e\transformed\transition-1.4.1\res
+com.example.diaryapp-google-services-48 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\generated\res\google-services\debug
+com.example.diaryapp-pngs-49 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\generated\res\pngs\debug
+com.example.diaryapp-resValues-50 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\generated\res\resValues\debug
+com.example.diaryapp-rs-51 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\generated\res\rs\debug
+com.example.diaryapp-packageDebugResources-52 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.diaryapp-packageDebugResources-53 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.diaryapp-merged_res-54 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\build\intermediates\merged_res\debug
+com.example.diaryapp-debug-55 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\src\debug\res
+com.example.diaryapp-main-56 C:\Users\SAHELI BANERJEE\AndroidStudioProjects\diaryApp1\app\src\main\res

@@ -31,13 +31,20 @@
     <string name="are_you_sure_you_want_to_delete_n_this_whole_entry">Are You Sure You Want To Delete \n This Whole Entry?</string>
     <string name="body">uhu</string>
     <string name="date">DATE…</string>
+    <string name="default_web_client_id" translatable="false">491946270395-auv02gpfrnm6tolih9fdnnc1felidpb7.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
     <string name="developers_name">By Pawan Kumar and Saheli Banerjee</string>
+    <string name="gcm_defaultSenderId" translatable="false">491946270395</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMdslgmM1p0QvNOxsXsj18uwzo8yw_Lv0</string>
+    <string name="google_app_id" translatable="false">1:491946270395:android:fc18eb67c1fcd29145539e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMdslgmM1p0QvNOxsXsj18uwzo8yw_Lv0</string>
+    <string name="google_storage_bucket" translatable="false">ps-diary-fb752.appspot.com</string>
     <string name="heading">hello</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="invalid_username">Not a valid username</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="project_id" translatable="false">ps-diary-fb752</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="ps_diary">PS:DIARY</string>
@@ -45,8 +52,8 @@
     <string name="title_activity_login">login</string>
     <string name="welcome">"Welcome !"</string>
     <string name="yes">Yes</string>
-    <style name="ProgressBar">
-        <item name="colorSecondary">@color/red</item>
+    <style name="ProgressBar" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorSecondary">@color/blue_background</item>
     </style>
     <style name="Theme.DiaryApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
         
